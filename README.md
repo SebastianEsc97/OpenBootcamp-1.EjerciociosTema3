@@ -1,7 +1,5 @@
 # OpenBootcamp-1.EjerciociosTema3
-Introducción a la Programación.
-
-Este es el primer ejercicio de OB en la introducción a la programación en el cual se pide lo siguiente.
+Este es el primer ejercicio de OB, del curso de introducción a la programación en el cual se pide lo siguiente.
 
 Primera parte:
 
